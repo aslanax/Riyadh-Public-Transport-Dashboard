@@ -78,19 +78,6 @@ Date: **May 2025**
 
 ---
 
-### 📂 How to Use
-
-1. Download the `.pbix` file from this repository.
-2. Open it using **Power BI Desktop (May 2024 or later)**.
-3. Use interactive filters to explore:
-
-   * Bus stop development
-   * Station performance
-   * Line-wise coverage
-   * Metro line ratings
-
----
-
 ### 🧑‍💻 Author
 
 **Ahmad Alamoush**
